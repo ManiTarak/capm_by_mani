@@ -1,0 +1,11 @@
+NODE_KEY,CITY,POSTAL_CODE,STREET,BUILDING,COUNTRY,ADDRESS_TYPE,VAL_START_DATE,VAL_END_DATE,LATITUDE,LONGTITUDE
+A001,San Francisco,94105,1 Market St,Bldg A,US,Headquarters,2020-01-01,2030-12-31,37.7936,-122.3965
+A002,Bangalore,560103,Outer Ring Rd,Divyasree Tech Park,IN,Regional Office,2021-06-01,2031-05-31,12.9352,77.6142
+A003,Frankfurt,60329,Mainzer Landstraße,100,DE,Sales Office,2022-03-01,2030-03-01,50.1109,8.6821
+A004,London,EC1A 1BB,St. John's Square,Alpha Tower,GB,Finance Office,2021-01-01,2029-12-31,51.5200,-0.0970
+A005,Sydney,2000,George St,45,AU,Support Center,2023-07-01,2033-07-01,-33.8688,151.2093
+A006,Tokyo,100-0004,Otemachi Chiyoda-ku,Marunouchi Bldg,JP,Development Hub,2020-05-01,2030-05-01,35.6895,139.6917
+A007,Toronto,M5H 2N2,Bay St,Sunlife Tower,CA,Sales Office,2022-08-01,2032-08-01,43.6510,-79.3470
+A008,Paris,75008,Champs-Élysées,75,FR,Regional HQ,2021-10-01,2031-10-01,48.8566,2.3522
+A009,Singapore,018936,Marina Blvd,Marina Bay Tower,SG,Asia Hub,2020-09-01,2030-09-01,1.3521,103.8198
+A010,New Delhi,110001,Connaught Place,Block C,IN,Corporate Office,2022-01-01,2032-01-01,28.6139,77.2090

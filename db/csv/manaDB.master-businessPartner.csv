@@ -1,0 +1,11 @@
+NODE_KEY,BP_ROLE,EMAIL_ADDRESS,PHONE_NUMBER,FAX_NUMBER,WEB_ADDRESS,BP_ID,COMPANY_NAME,ADDRESS_GUID_NODE_KEY
+BP1001,01,contact@globex.com,+14155551234,+14155559876,www.globex.com,BP-GLOBEX,Globex Corporation,A001
+BP1002,02,info@inno-tech.in,+918042345678,+918042345600,www.innotech.in,BP-INNOTECH,InnoTech Pvt Ltd,A002
+BP1003,03,office@einheit.de,+496969123456,+496969123499,www.einheit.de,BP-EINHEIT,Einheit GmbH,A003
+BP1004,02,accounts@londonfinance.co.uk,+442071234567,+442071234599,www.londonfinance.co.uk,BP-LONFIN,London Finance Ltd,A004
+BP1005,01,support@sydaus.com,+61298765432,+61298765000,www.sydaus.com,BP-SYDAUS,SydAus Solutions,A005
+BP1006,03,dev@nippontech.jp,+81345678900,+81345678999,www.nippontech.jp,BP-NIPPON,Nippon Tech Corp,A006
+BP1007,01,connect@maplenorth.ca,+14168881234,+14168889900,www.maplenorth.ca,BP-MAPLE,Maple North Inc,A007
+BP1008,02,hq@paristech.fr,+33144445566,+33144449988,www.paristech.fr,BP-PARISTECH,ParisTech SAS,A008
+BP1009,01,hello@singasol.com,+6567891234,+6567894321,www.singasol.com,BP-SINGASOL,Singa Solutions,A009
+BP1010,03,admin@deltacorp.in,+911123456789,+911123450000,www.deltacorp.in,BP-DELTACORP,Delta Corp India,A010
